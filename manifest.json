@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "datafusion-sql-udfs",
+  "versions": [
+    {
+      "commit": "d173e9ba6efd98481ae2c175ce4a29f5f6c47876",
+      "parsed_at": "2026-10-11T08:27:22.909808+00:00",
+      "filetree": "filetree/d173e9ba6efd98481ae2c175ce4a29f5f6c47876.nq.gz",
+      "blobs": [
+        "blob/7fe296dc59d068d43c544f6294d015e67c8db6d1.nq.gz",
+        "blob/9cfe38b08799e522ab4f942195876bd52e61f748.nq.gz",
+        "blob/24adcf30254c348bd7024a9859bfa4346acd1818.nq.gz",
+        "blob/fa364e66916d07006aa183ed4c703de1ce473649.nq.gz",
+        "blob/e75b0f9917da86383748c65b263f3ee0a53aa2a8.nq.gz",
+        "blob/c8cd0f4be29a337bd0f90f4bec18c194127d4336.nq.gz",
+        "blob/365eb1c58bac90112363eecaf3d593536c94c38b.nq.gz",
+        "blob/be4940fe02b78d4d52e78ac2f8be1de5c0eb80c4.nq.gz",
+        "blob/f62fa52cb6e91778b5b8e24baf3222e800884033.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
