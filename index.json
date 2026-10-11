@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "datafusion-sql-udfs",
+  "versions": [
+    {
+      "commit": "d173e9ba6efd98481ae2c175ce4a29f5f6c47876",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:29:40.809838+00:00"
+    }
+  ]
+}
