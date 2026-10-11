@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/datafusion-sql-udfs/commit/d173e9ba6efd98481ae2c175ce4a29f5f6c47876",
       "git:hexsha": "d173e9ba6efd98481ae2c175ce4a29f5f6c47876",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
